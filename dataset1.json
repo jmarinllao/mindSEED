@@ -6,12 +6,12 @@
     "type": "date",
     "format": "%-m/%-d/%Y"
 }, {
-    "name": "Sales",
+    "name": "F7-T7",
     "type": "number"
 }, {
-    "name": "Quantity",
+    "name": "FP2-F4",
     "type": "number"
 }, {
-    "name": "Shipping Cost",
+    "name": "FP2-F8",
     "type": "number"
 }]
