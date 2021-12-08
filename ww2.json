@@ -16,6 +16,11 @@
    "type": "Country"
  },
  {
+   "id": "IND",
+   "label": "India",
+   "type": "Country"
+ },
+ {
    "id": "DEU",
    "label": "Germany",
    "type": "Country"
@@ -187,6 +192,15 @@
    "start": 1914,
    "end": 1918,
    "label": ""
+ },
+ {
+   "source": "IND",
+   "target": "FRA",
+   "directed": "no",
+   "type": "Alliance",
+   "start": 1939,
+   "end": 1945,
+   "label": "Allied Powers"
  },
  {
    "source": "AUT",
@@ -382,6 +396,11 @@
    "id": "SRB",
    "lat": 43.85,
    "long": 18.38
+ },
+ {
+   "id": "IND",
+   "lat": 41.28,
+   "long": 0.195
  },
  {
    "id": "BGR",
