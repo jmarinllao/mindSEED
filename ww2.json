@@ -127,6 +127,15 @@
    "label": "Triple Alliance"
  },
  {
+   "source": "DEU",
+   "target": "JAP",
+   "directed": "no",
+   "type": "Alliance",
+   "start": 1882,
+   "end": 1914,
+   "label": "Axis Powers"
+ },
+ {
    "source": "AUT",
    "target": "ITA",
    "directed": "no",
@@ -385,6 +394,11 @@
    "id": "FRA",
    "lat": 48.87,
    "long": 2.33
+ },
+ {
+   "id": "JAP",
+   "lat": 51.51,
+   "long": -0.12
  },
  {
    "id": "DEU",
