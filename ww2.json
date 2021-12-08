@@ -21,6 +21,11 @@
    "type": "Country"
  },
  {
+   "id": "IND",
+   "label": "India",
+   "type": "Country"
+ },
+ {
    "id": "AUT",
    "label": "Austria",
    "type": "Country"
@@ -128,6 +133,15 @@
    "start": 1882,
    "end": 1914,
    "label": "Triple Alliance"
+ },
+ {
+   "source": "IND",
+   "target": "FRA",
+   "directed": "no",
+   "type": "Alliance",
+   "start": 1939,
+   "end": 1945,
+   "label": "Allied Powers"
  },
  {
    "source": "FRA",
@@ -373,6 +387,11 @@
    "id": "BGR",
    "lat": 42.68,
    "long": 23.32
+ },
+ {
+   "id": "IND",
+   "lat": 28.64,
+   "long": 77.21
  },
  {
    "id": "OTM",
