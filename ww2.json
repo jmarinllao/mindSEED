@@ -10,6 +10,11 @@
    "label": "Belgium",
    "type": "Country"
  },
+ { 
+   "id": "JAP",
+   "label": "Japan",
+   "type": "Country"
+ },
  {
    "id": "FRA",
    "label": "France",
@@ -147,6 +152,15 @@
    "start": 1939,
    "end": 1945,
    "label": "Allied Powers"
+ },
+ {
+   "source": "DEU",
+   "target": "JAP",
+   "directed": "no",
+   "type": "Alliance",
+   "start": 1882,
+   "end": 1914,
+   "label": "Axis Powers"
  },
  {
    "source": "FRA",
@@ -396,6 +410,11 @@
    "id": "SRB",
    "lat": 43.85,
    "long": 18.38
+ },
+ {
+   "id": "JAP",
+   "lat": 51.51,
+   "long": -0.12
  },
  {
    "id": "IND",
