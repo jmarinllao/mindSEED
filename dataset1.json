@@ -1,17 +1,11 @@
 [{
-    "name": "EEG",
-    "type": "string"
+  "name": "Time",
+  "type": "date",
+  "format": "%b-%Y"
 }, {
-    "name": "Time",
-    "type": "date",
-    "format": "%-m/%-d/%Y"
+  "name": "F7-T7",
+  "type": "number"
 }, {
-    "name": "F7-T7",
-    "type": "number"
-}, {
-    "name": "FP2-F4",
-    "type": "number"
-}, {
-    "name": "FP2-F8",
-    "type": "number"
+  "name": "FP2-F4",
+  "type": "number"
 }]
