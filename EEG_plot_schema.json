@@ -1,7 +1,7 @@
 [{
   "name": "Time",
   "type": "date",
-  "format": "%b %d, %Y %H:%M:%S:%L"
+  "format": "%b %d, %Y %H"
 }, {
   "name": "F7-T7",
   "type": "number"
